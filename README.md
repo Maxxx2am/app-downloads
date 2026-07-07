@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29730082/README.md)
 # 📱 My Apps — Android Downloads
 
 Free Android builds of my apps. Both are also live on the **iOS App Store**.
